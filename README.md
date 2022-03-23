@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gelangweilter
+- 👀 I’m interested in Java, HTML, CSS, Bootstrap, Angular, JS, Kotlin 
+- 🌱 I’m currently learning everythning from above
+- 📫 How to reach me -> Discord: Flo_49#6134
