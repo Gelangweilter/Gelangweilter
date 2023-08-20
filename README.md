@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Gelangweilter
-- 👀 I’m interested in Java, HTML, CSS, Bootstrap, Angular, JS, Kotlin, c++, Kotlin
-- 🌱 I’m currently learning everythning from above
-- 📫 How to reach me -> Discord: Flo_49#6134
+Hallo! Mein Name ist Florian Weismeier, und ich bin ein 17-jähriger Schüler am Graf-Rasso-Gymnasium. In meiner Freizeit widme ich mich meiner Leidenschaft fürs Programmieren. Hauptsächlich entwickle ich Webanwendungen mit React, also mit JavaScript, HTML und CSS und neuerdings erstelle ich Apps mit Flutter. Doch meine Kenntnisse beschränken sich nicht nur darauf. Ich habe auch Grundkenntnisse in C++, Java, Dart und Kotlin.
+
+Derzeit arbeite ich zusammen mit einem Freund an einem aufregenden Projekt namens Drawlie. Dabei fungiere ich als Fullstack Developer. Drawlie ist eine innovative Plattform, die es Nutzern ermöglicht, ihre kreativen Fähigkeiten voll auszuschöpfen. Mit Drawlie können Benutzer ihre eigenen digitalen Kunstwerke erstellen, teilen und verkaufen. Wir legen großen Wert auf eine benutzerfreundliche Oberfläche und nutzen modernste Technologien, um ein reibungsloses Erlebnis zu gewährleisten.
